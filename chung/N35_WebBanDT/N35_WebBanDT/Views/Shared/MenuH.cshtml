@@ -1,0 +1,9 @@
+﻿
+@using N35_WebBanDT.Models.Entities;
+
+@model IEnumerable<Hang>
+
+@foreach (var item in Model)
+{
+    <li><a href="/SanPham/SanPhamDM/@item.IDHang" style="color:black">@item.TenHang</a></li>
+}

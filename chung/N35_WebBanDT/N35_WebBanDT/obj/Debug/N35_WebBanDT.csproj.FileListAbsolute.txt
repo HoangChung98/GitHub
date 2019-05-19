@@ -1,0 +1,396 @@
+D:\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.dll.config
+D:\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.pdb
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.exe
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.exe.config
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.rsp
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.exe
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.exe.config
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.rsp
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.AppContext.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Collections.Immutable.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Console.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Compression.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.FileSystem.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Pipes.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Reflection.Metadata.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.AccessControl.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Claims.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Principal.Windows.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.ValueTuple.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XPath.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.exe
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.exe.config
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.rsp
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\VBCSCompiler.exe
+D:\N35_WebBanDT\N35_WebBanDT\bin\roslyn\VBCSCompiler.exe.config
+D:\N35_WebBanDT\N35_WebBanDT\bin\Antlr3.Runtime.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.Web.Infrastructure.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\Newtonsoft.Json.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Helpers.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Mvc.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Optimization.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Razor.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Deployment.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Razor.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\WebGrease.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Helpers.xml
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Mvc.xml
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Optimization.xml
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Razor.xml
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.xml
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Deployment.xml
+D:\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Razor.xml
+D:\N35_WebBanDT\N35_WebBanDT\bin\Newtonsoft.Json.xml
+D:\N35_WebBanDT\N35_WebBanDT\bin\Antlr3.Runtime.pdb
+D:\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.csprojAssemblyReference.cache
+D:\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.csproj.CoreCompileInputs.cache
+D:\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.csproj.CopyComplete
+D:\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.dll
+D:\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.pdb
+D:\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.SqlServer.dll
+D:\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.xml
+D:\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.SqlServer.xml
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.dll.config
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.pdb
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.exe
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.exe.config
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.rsp
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.exe
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.exe.config
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.rsp
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.AppContext.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Console.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Compression.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Claims.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.ValueTuple.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.exe
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.exe.config
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.rsp
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\Antlr3.Runtime.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.SqlServer.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\Newtonsoft.Json.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Helpers.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Mvc.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Optimization.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Razor.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\WebGrease.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.xml
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.SqlServer.xml
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Helpers.xml
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Mvc.xml
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Optimization.xml
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Razor.xml
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.xml
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\Newtonsoft.Json.xml
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\Antlr3.Runtime.pdb
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.csproj.CoreCompileInputs.cache
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.csproj.CopyComplete
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.dll
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.pdb
+C:\Users\sic.compoter\Downloads\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.csprojAssemblyReference.cache
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.dll.config
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.pdb
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.exe
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.exe.config
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.rsp
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.exe
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.exe.config
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.rsp
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.AppContext.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Collections.Immutable.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Console.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Compression.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.FileSystem.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Pipes.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Reflection.Metadata.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.AccessControl.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Claims.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.ValueTuple.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XPath.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.exe
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.exe.config
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.rsp
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\VBCSCompiler.exe
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\VBCSCompiler.exe.config
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Antlr3.Runtime.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.SqlServer.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.Web.Infrastructure.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Newtonsoft.Json.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Helpers.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Mvc.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Optimization.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Razor.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Deployment.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Razor.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\WebGrease.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.xml
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.SqlServer.xml
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Helpers.xml
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Mvc.xml
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Optimization.xml
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Razor.xml
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.xml
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Deployment.xml
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Razor.xml
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Newtonsoft.Json.xml
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Antlr3.Runtime.pdb
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.csprojAssemblyReference.cache
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.csproj.CoreCompileInputs.cache
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.csproj.CopyComplete
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.dll
+F:\Học Tập\Kì 2 năm 3\Công nghệ web\BaoCao\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.pdb
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.dll.config
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.pdb
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.exe
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.exe.config
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.rsp
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.exe
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.exe.config
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.rsp
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.Managed.Core.targets
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.AppContext.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Collections.Immutable.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Console.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Compression.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.FileSystem.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Pipes.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.AccessControl.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Claims.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Principal.Windows.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.ValueTuple.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XmlDocument.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XPath.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.exe
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.exe.config
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.rsp
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\VBCSCompiler.exe
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\roslyn\VBCSCompiler.exe.config
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Antlr3.Runtime.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.SqlServer.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.Web.Infrastructure.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Newtonsoft.Json.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Helpers.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Mvc.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Optimization.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Razor.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Deployment.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Razor.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\WebGrease.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.xml
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.SqlServer.xml
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Helpers.xml
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Mvc.xml
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Optimization.xml
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Razor.xml
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.xml
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Deployment.xml
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Razor.xml
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Newtonsoft.Json.xml
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Antlr3.Runtime.pdb
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.csprojResolveAssemblyReference.cache
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.dll
+E:\GÓC HỌC TẬP\Các Môn Học\Xây dựng\ThucTapNhom-20190513T050015Z-001\ThucTapNhom\N35_WebBanDT\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.pdb
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.dll.config
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\N35_WebBanDT.pdb
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.exe
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.exe.config
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csc.rsp
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.exe
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.exe.config
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\csi.rsp
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.AppContext.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Console.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Compression.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Claims.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.ValueTuple.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.exe
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.exe.config
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\vbc.rsp
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\Antlr3.Runtime.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.SqlServer.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\Newtonsoft.Json.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Helpers.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Mvc.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Optimization.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Razor.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\WebGrease.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.xml
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\EntityFramework.SqlServer.xml
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Helpers.xml
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Mvc.xml
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Optimization.xml
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.Razor.xml
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.xml
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\Newtonsoft.Json.xml
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\Antlr3.Runtime.pdb
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.dll
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.pdb
+C:\Users\HoangTrung\Desktop\N35_WebBanDT\N35_WebBanDT\obj\Debug\N35_WebBanDT.csprojResolveAssemblyReference.cache

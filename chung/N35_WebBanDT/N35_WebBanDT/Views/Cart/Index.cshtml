@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+@using N35_WebBanDT.Models.Entities;
+@model List<CartItem>
+
+<div class="detail-cart">
+    <table>
+        <tr>
+
+            <td style="width: 300px; height: 50px; padding: 15px 25px; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc;">Tên sản phẩm</td>
+            <td style="width: 250px; padding: 15px 25px; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc;">Hình ảnh</td>
+            <td style="width: 100px; padding: 15px 25px; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc;">Số lượng</td>
+            <td style="width: 140px; padding: 15px 25px; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc;">Đơn giá</td>
+            <td style="width: 140px; padding: 15px 25px; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc;">Tổng tiền</td>
+            <td style="border-bottom: 1px solid #ccc;" @*style="width: 300px;"*@></td>
+        </tr>
+        @if (Model.Count > 0)
+        {
+
+
+            foreach (var item in Model)
+            {
+                var tong = item.SanPham.DonGiaB * item.Soluong;
+                <tr>
+
+                    <td style="height: 200px; padding: 15px 25px; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc;">@item.SanPham.TenSanPham</td>
+                    <td style="height: 200px; padding: 15px 25px; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc;"><img src="~/Content/images/@item.SanPham.UrlAnh"/></td>
+                    <td style="height: 200px; padding: 15px 25px; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc;">@item.Soluong</td>
+                    <td style="height: 200px; padding: 15px 25px; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc;">@item.SanPham.DonGiaB.GetValueOrDefault(0).ToString("N0")</td>
+                    <td style="height: 200px; padding: 15px 25px; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc;">@tong.GetValueOrDefault(0).ToString("N0")</td>
+                    <td style="border-bottom: 1px solid #ccc;">Xóa, </td>
+                    <td style="border-bottom: 1px solid #ccc;">Sửa</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr><td> Chưa có sản phẩm nào trong giỏ hàng </td></tr>
+        }
+    </table>
+</div>
+
+

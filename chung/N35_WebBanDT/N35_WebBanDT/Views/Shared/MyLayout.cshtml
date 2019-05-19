@@ -1,0 +1,166 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@Page.Title</title>
+    @RenderSection("head", required: false)
+    <title>Free Home Shoppe Website Template | Home :: w3layouts</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="/Content/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="/Content/css/slider.css" rel="stylesheet" type="text/css" media="all" />
+
+    <script type="text/javascript" src="/Content/js/jquery-1.7.2.min.js"></script>
+    <script href="/Content/js/boostrap.min.js" rel="stylesheet"></script>
+    <script type="text/javascript" src="/Content/js/move-top.js"></script>
+    <script type="text/javascript" src="/Content/js/easing.js"></script>
+    <script type="text/javascript" src="/Content/js/startstop-slider.js"></script>
+</head>
+<body>
+    <div class="wrap">
+        <div class="header">
+            <div class="headertop_desc">
+                <div class="call">
+                    <p><span>Liên hệ:</span> <span class="number">0986868688</span></span></p>
+                </div>
+                <div class="account_desc">
+                    <ul>
+                        <li><a href="#" style="color:black">Đăng kí </a></li>
+                        <li><a href="/Login/Login" style="color:black">Đăng nhập</a></li>
+                        <li><a href="#" style="color:black">Vận Chuyển</a></li>
+                        <li><a href="#" style="color:black">Thanh Toán </a></li>
+                        <li><a href="#" style="color:black">Tài Khoản </a></li>
+                    </ul>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="header_top">
+                <div class="logo">
+                    <a href="/SanPham/TrangChu"><img src="/Content/images/LOGO_N35A.png" alt="" /></a>
+                </div>
+                <div class="cart">
+                    <p>
+                        Chào mừng đến của hàng của chúng tôi! <a href="/Cart/Index">Giỏ Hàng :</a><div id="dd" class="wrapper-dropdown-2">
+                            <ul class="dropdown">
+                                <li>Bạn không có sản phẩm nào trong giỏ hàng </li>
+                            </ul>
+                        </div>
+                    </p>
+                </div>
+                <script type="text/javascript">
+                    function DropDown(el) {
+                        this.dd = el;
+                        this.initEvents();
+                    }
+                    DropDown.prototype = {
+                        initEvents: function () {
+                            var obj = this;
+
+                            obj.dd.on('click', function (event) {
+                                $(this).toggleClass('active');
+                                event.stopPropagation();
+                            });
+                        }
+                    }
+
+                    $(function () {
+
+                        var dd = new DropDown($('#dd'));
+
+                        $(document).click(function () {
+                            // all dropdowns
+                            $('.wrapper-dropdown-2').removeClass('active');
+                        });
+
+                    });
+
+                </script>
+                <div class="clear"></div>
+            </div>
+            <div class="header_bottom" style="background-color:#253d98">
+                <div class="menu">
+                    <ul>
+                        <li class="active"><a href="/SanPham/TrangChu">Trang chủ</a></li>
+                        <li><a href="/SanPham/DanhSachSanPham">Cửa Hàng</a></li>
+                        <li><a href="/LienHe/GioiThieu">Giới Thiệu</a></li>
+                        <li><a href="/LienHe/TinTuc">Tin Tức</a></li>
+                        <li><a href="/LienHe/LienLac">Liên Lạc</a></li>
+                        <div class="clear"></div>
+                    </ul>
+                </div>
+                <div class="search_box">
+                    <form action="TimKiem" method="post">
+                        <input type="text" value="Tìm Kiếm" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}" name="TuKhoa"/>
+                        <input type="submit" value="">
+                      
+                    </form>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div>
+                @RenderBody()
+            </div>
+
+            <div class="footer">
+                <div class="wrap">
+                    <div class="section group">
+                        <div class="col_1_of_4 span_1_of_4">
+                            <h4>Thông Tin</h4>
+                            <ul>
+                                <li><a href="about.html">Về chúng tôi</a></li>
+                                <li><a href="contact.html">Dịch Vụ Khách Hàng</a></li>
+                                <li><a href="#">Tìm Kiếm Nâng Cao</a></li>
+                                <li><a href="delivery.html">Đặt Và Hoàn Lại</a></li>
+                                <li><a href="contact.html">Liên Lạc</a></li>
+                            </ul>
+                        </div>
+                        <div class="col_1_of_4 span_1_of_4">
+                            <h4>Tại Sao Bạn Mua Từ Chúng Tôi </h4>
+                            <ul>
+                                <li><a href="about.html">Về Chúng Tôi</a></li>
+                                <li><a href="contact.html">Dịch Vụ Khách Hàng</a></li>
+                                <li><a href="#">Chính Sách</a></li>
+                                <li><a href="contact.html">Bản Đồ</a></li>
+                                <li><a href="#">Điều Khoản Tìm Kiếm</a></li>
+                            </ul>
+                        </div>
+                        <div class="col_1_of_4 span_1_of_4">
+                            <h4>Tài Khoản Của Tôi </h4>
+                            <ul>
+                                <li><a href="contact.html">Đăng Nhập</a></li>
+                                <li><a href="index.html">Xem Giỏ Hàng</a></li>
+                                <li><a href="#">Yêu Thích</a></li>
+                                <li><a href="#">Thoi Dõi Đơn Hàng</a></li>
+                                <li><a href="contact.html">Giúp Đỡ</a></li>
+                            </ul>
+                        </div>
+                        <div class="col_1_of_4 span_1_of_4">
+                            <h4>Liên Lạc</h4>
+                            <ul>
+                                <li><span>0986868688</span></li>
+                                <li><span>0358155533</span></li>
+                            </ul>
+                            <div class="social-icons">
+                                <h4>Theo Dõi Chúng Tôi</h4>
+                                <ul>
+                                    <li><a href="#" target="_blank"><img src="/Content/images/facebook.png" alt="" /></a></li>
+                                    <li><a href="#" target="_blank"><img src="/Content/images/twitter.png" alt="" /></a></li>
+                                    <li><a href="#" target="_blank"><img src="/Content/images/skype.png" alt="" /> </a></li>
+                                    <li><a href="#" target="_blank"> <img src="/Content/images/dribbble.png" alt="" /></a></li>
+                                    <li><a href="#" target="_blank"> <img src="/Content/images/linkedin.png" alt="" /></a></li>
+                                    <div class="clear"></div>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    $().UItoTop({ easingType: 'easeOutQuart' });
+
+                });
+            </script>
+            <a href="#" id="toTop"><span id="toTopHover"> </span></a>
+            @RenderSection("jsFooter", required: false)
+</body>
+</html>

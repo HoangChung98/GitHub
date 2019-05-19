@@ -1,0 +1,81 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+@using N35_WebBanDT.Models.Entities
+@model IEnumerable<SanPham>
+<div class="content-wrapper">
+    <div class="row">
+        <div class="col-lg-12 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                   <a href="/Admin/DanhMuc/Them"> Thêm sản phẩm</a>
+                   
+                    <div class="table-responsive">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>
+                                        ID Sản phẩm
+                                    </th>
+                                    <th>
+                                        Tên Sản Phẩm
+                                    </th>
+                                    <th>
+                                        Đơn giá
+                                    </th>
+                                    
+                                    <th>
+                                        Ram
+                                    </th>
+                                    <th>
+                                        Chi tiết
+                                    </th>
+                                    <th>
+                                       Sửa
+                                    </th>
+                                    <th>
+                                       Xóa
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                <tr>
+                                    <td> @item.IDSanPham</td>
+                                    <td>@item.TenSanPham</td>
+                                    <td>@item.DonGiaB</td>
+                                 
+                                    <td>@item.Ram</td>
+                                    <td><a href="/Admin/DanhMuc/XemChiTiet/@item.IDSanPham">Xem chi tiết</a></td>
+                                    <td><a href="/Admin/DanhMuc/Sua/@item.IDSanPham">Sửa</a></td>
+                                    <td><a href="/Admin/DanhMuc/Xoa/@item.IDSanPham">Xóa</a></td>
+                                </tr>
+                                }
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div><!-- content-wrapper ends -->
+        <!-- partial:../../partials/_footer.html -->
+        <footer class="footer">
+            <div class="container-fluid clearfix">
+                <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">
+                    Trang quản trị
+                    <a href="http://www.bootstrapdash.com/" target="_blank"></a>
+                </span>
+                <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">
+                    Địa chỉ:234-Hoàng Quốc Việt-Hà Nội
+                    <i class="mdi mdi-heart text-danger"></i>
+                </span>
+            </div>
+        </footer>
+        <!-- partial -->
+    </div>
+    <!-- main-panel ends -->
+</div>
+

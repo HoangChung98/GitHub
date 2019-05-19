@@ -1,0 +1,154 @@
+﻿@model N35_WebBanDT.Models.Entities.SanPham
+
+@{
+    ViewBag.Title = "XemChiTiet";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>Xem chi tiết thông tin sản phẩm</h2>
+
+<div>
+    <h4>Danh muc sản phẩm</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên Hãng
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Hang.TenHang)
+        </dd>
+
+        <dt>
+            Tên Nhà Cung Cấp
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NhaCungCap.TenNCC)
+        </dd>
+
+        <dt>
+            Tên Sản Phẩm
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenSanPham)
+        </dd>
+
+        <dt>
+           Link Ảnh
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UrlAnh)
+        </dd>
+
+        <dt>
+           Đơn Vị Tính
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DVT)
+        </dd>
+
+        <dt>
+          Đơn Giá Nhập
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DonGiaN)
+        </dd>
+
+        <dt>
+           Đơn Giá Bán
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DonGiaB)
+        </dd>
+
+        <dt>
+           Màn Hình
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ManHinh)
+        </dd>
+
+        <dt>
+            Hệ Điều Hành
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HeDieuHanh)
+        </dd>
+
+        <dt>
+            Camera Sau
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CameraSau)
+        </dd>
+
+        <dt>
+           Camera Trước
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CameraTruoc)
+        </dd>
+
+        <dt>
+            Bộ Nhớ Trong
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BoNhoTrong)
+        </dd>
+
+        <dt>
+            RAM
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ram)
+        </dd>
+
+        <dt>
+          CPU
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CPU)
+        </dd>
+
+        <dt>
+           Dung Lượng Pin
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DungLuongPin)
+        </dd>
+
+        <dt>
+            Thẻ Sim
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TheSim)
+        </dd>
+
+        <dt>
+            Thời Gian Bảo Hành
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TGBaoHanh)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Trở về trang danh sách sản phẩm", "Index")
+</p>

@@ -1,0 +1,111 @@
+﻿
+@{
+    ViewBag.Title = "DanhSachSanPham";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+
+
+@{
+    ViewBag.Title = "TrangChu";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+
+    var count = 0;
+}
+
+@using N35_WebBanDT.Models.Entities;
+
+@model List<SanPham>
+<div class="header_slide">
+    <div class="header_bottom_left">
+        <div class="categories">
+            <ul>
+                <h3 style="background-color:#253d98">Danh Mục</h3>
+                @Html.Action("Menu","SanPham")
+
+            </ul>
+        </div>
+    </div>
+    <div class="header_bottom_right">
+        <div class="slider">
+            <div id="slider">
+                <div id="mover">
+                    <div id="slide-1" class="slide">
+                        <div class="slider-img">
+                            <a href="preview.html"><img src="/Content/images/AnhA.jpg" alt="learn more" /></a>
+                        </div>
+                        <div class="slider-text">
+                            <h1 style="font-size: 25px; text-align :center ; color : #253d98"><span>SẢN PHẨM MỚI</span></h1>
+                            <h2>SamSung Note 9</h2>
+                            <div class="features_list">
+                                <h4>Get to Know More About Our Memorable Services Lorem Ipsum is simply dummy text</h4>
+                            </div>
+                            <a href="preview.html" class="button" style="background-color:#253d98">Mua Ngay</a>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="slide">
+                        <div class="slider-text">
+                            <h1 style="font-size: 25px; text-align :center; color : #253d98"><span>SẢN PHẨM MỚI</span></h1>
+                            <h2>Giảm Giá 40%</h2>
+                            <div class="features_list">
+                                <h4>Get to Know More About Our Memorable Services</h4>
+                            </div>
+                            <a href="preview.html" class="button" style="background-color:#253d98">Mua Ngay</a>
+                        </div>
+                        <div class="slider-img">
+                            <a href="preview.html"><img src="~/Content/images/AnhC.jpg" alt="learn more" /></a>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                    <div class="slide">
+                        <div class="slider-img">
+                            <a href="preview.html"><img src="~/Content/images/AnhD.jpg" alt="learn more" /></a>
+                        </div>
+                        <div class="slider-text">
+                            <h1 style="font-size: 25px; text-align :center;color:#253d98" "><span>SẢN PHẨM MỚI</span></h1>
+                            <h2>Giảm Giá 10%</h2>
+                            <div class="features_list">
+                                <h4>Get to Know More About Our Memorable Services Lorem Ipsum is simply dummy text</h4>
+                            </div>
+                            <a href="preview.html" class="button" style="background-color:#253d98">Mua Ngay</a>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+<div class="main">
+    <div class="content">
+        <div class="section group">
+            @foreach (var item in Model)
+            {
+                <div class="grid_1_of_4 images_1_of_4 SP_@count">
+                    <a href="/SanPham/ChiTietSanPham/@item.IDSanPham"><img src="/Content/images/@item.UrlAnh" alt="" /></a>
+                    <h2>@item.TenSanPham </h2>
+                    <div class="price-details">
+                        <div class="price-number">
+                            <p style="text-align:center"><span class="rupees">@item.DonGiaB.GetValueOrDefault(0).ToString("N0") VNĐ VNĐ</span></p>
+                        </div>
+                        <div class="add-cart">
+                            <h4 style="text-align:center"><a href="/Cart/AddItem?IDSanPham=@item.IDSanPham&soluong=1">Thêm vào giỏ hàng </a></h4>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+
+                </div>
+
+                count++;
+            }
+
+        </div>
+    </div>
+</div>
+
+
+
+
